@@ -113,7 +113,7 @@ body:after {
   border-color: transparent; }
 
 .site-section {
-  font-size: 15px;
+  font-size: 13px;
   color:grey;
   background-color: #cee0d3;
   padding: 1.5em 0; }
@@ -1969,4 +1969,11 @@ figure figcaption {
 
 .page-footer{
   background-color: #323633;
+}
+
+.row{
+  font-size: 12px;
+}
+.btn btn-primary{
+  color:yellow;
 }
